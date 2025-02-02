@@ -67,6 +67,9 @@ dependencies {
     // Timber
     implementation(libs.timber)
 
+    // Testing
+    testImplementation(libs.junit)
+
     // Security
     implementation(libs.security.crypto)
 
